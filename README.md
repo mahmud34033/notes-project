@@ -16,5 +16,4 @@ This is my first Git and GitHub practice project.
 
 
 
-Git is an essential tool for developers.
-
+Git is an essential and powerful version control system for developers.
