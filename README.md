@@ -16,3 +16,6 @@ This is my first Git and GitHub practice project.
 
 
 
+Git is an essential and powerful version control system for developers.
+
+This project is used to learn Git and GitHub step by step.
